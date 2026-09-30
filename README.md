@@ -1,8 +1,8 @@
-# Laboratoire : Introduction à Spring Boot & Spring MVC
-
 **Université d'Ottawa**  
 **Cours :** SEG 3102 / SEG 3502  
-**Étudiant :** Manasse Biaya (300421324)  
+**Étudiants :**
+- Manasse Biaya (300421324)
+- Anwar Issaoui (300463845)  
 **Projet :** Convertisseur de Température (Celsius / Fahrenheit)
 
 ---
